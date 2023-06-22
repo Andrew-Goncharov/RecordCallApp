@@ -11,11 +11,11 @@
 
 Главный экран приложения:
 
-<img src="https://github.com/Andrew-Goncharov/RecordCallApp/blob/master/app/src/main/res/drawable/main_screen.png" width="200" alt="Скриншот главного экнрана приложения">
+<img src="https://github.com/Andrew-Goncharov/RecordCallApplication/blob/master/Screenshots/main_screen.png" width="200" alt="Скриншот главного экнрана приложения">
 
 Список доступных контактов:
 
-<img src="https://github.com/Andrew-Goncharov/RecordCallApp/blob/master/app/src/main/res/drawable/contact_screen.png" width="200" alt="Скриншот экрана со списком контактов">
+<img src="https://github.com/Andrew-Goncharov/RecordCallApplication/blob/master/Screenshots/contact_screen.png" width="200" alt="Скриншот экрана со списком контактов">
 
 ### Структура проекта
 
